@@ -2,6 +2,10 @@
 
 ## DỮ LIỆU GIAO DỊCH (TRANSACTION DATA - TXS)
 
+![Transaction Data Examples (Axiom)](transactions-axiom.png)
+
+![Transaction Data Examples (MevX)](transactions-mevx.png)
+
 ### 1. Thông tin cần có (Required Information)
 
 | Field                  | Description                                                   |
@@ -169,6 +173,10 @@
 
 ## POSITIONS
 
+![Position Examples (Axiom)](positions-axiom.png)
+
+![Position Examples (MevX)](positions-mevx.png)
+
 ### 1. Thông tin cần có (Required Information)
 
 | Field             | Description                 |
@@ -315,6 +323,10 @@
 
 ## ORDERS
 
+![Order Examples (Axiom)](orders-axiom.png)
+
+![Order Examples (MevX)](orders-mevx.png)
+
 ### 1. Thông tin cần có (Required Information)
 
 | Field                 | Description                          |
@@ -346,6 +358,10 @@ Orders/Limit orders được quản lý bởi các **DEX Aggregators**
 ---
 
 ## HOLDERS
+
+![Holder Examples (Axiom)](holders-axiom.png)
+
+![Holder Examples (MevX)](holders-mevx.png)
 
 ### 1. Thông tin cần có (Required Information)
 
@@ -425,6 +441,10 @@ API này chỉ trả về **basic holder data**:
 4. `/wallet/v2/pnl` - Get PnL per holder (if needed, but requires calling per wallet)
 
 ## TOP TRADERS
+
+![Top Traders Examples (Axiom)](top-traders-axiom.png)
+
+![Top Traders Examples (MevX)](top-traders-mevx.png)
 
 ### 1. Thông tin cần có (Required Information)
 
@@ -526,6 +546,10 @@ API này chỉ trả về **basic holder data**:
 ## DEV TOKENS
 
 **Các token cùng được deploy bởi địa chỉ ví dev này**
+
+![Dev Tokens Examples (Axiom)](dev-tokens-axiom.png)
+
+![Dev Tokens Examples (MevX)](dev-tokens-mevx.png)
 
 ### 1. Thông tin cần có (Required Information)
 
