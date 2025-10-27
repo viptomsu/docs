@@ -583,7 +583,7 @@ Birdeye có API để:
 
 | Feature         | Độ phủ  | API có sẵn | Độ phức tạp | Đánh giá & Khuyến nghị                                   |
 | --------------- | ------- | ---------- | ----------- | -------------------------------------------------------- |
-| **TXS**         | ✅ 85%  | Có         | Thấp        | ✅ **Highly recommended** - API hoàn chỉnh, dễ dùng      |
+| **TXS**         | ✅ 100% | Có         | Thấp        | ✅ **Perfect** - API hoàn chỉnh, dễ dùng                 |
 | **POSITIONS**   | ✅ 100% | Có         | Thấp        | ✅ **Perfect** - API `/wallet/v2/pnl` cung cấp mọi thứ   |
 | **ORDERS**      | ❌ 0%   | Không      | -           | ❌ **Not supported** - Dùng Jupiter API thay thế         |
 | **HOLDERS**     | ⚠️ 30%  | Một phần   | Cao         | ⚠️ **Limited** - Chỉ có danh sách cơ bản, thiếu PnL data |
